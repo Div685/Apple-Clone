@@ -3,7 +3,7 @@
 # Apple-Clone
 > This project contains a clone of an old apple.com's webpage.
 
-![screenshot](./project-screenshot.png)
+![screenshot](./img/project-screenshot.png)
 
 
 ## Built With
