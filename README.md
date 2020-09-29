@@ -11,7 +11,7 @@
 - HTML
 Designed in Semantic HTML style.
 
--CSS
+- CSS
 Use of Gradient backgound.
 Use of flex layout
 Use of grid layout
