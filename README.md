@@ -1,7 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# The New York Times 
-
+# Apple-Clone
 > This project contains a clone of an old apple.com's webpage.
 
 ![screenshot](./project-screenshot.png)
