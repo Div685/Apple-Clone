@@ -8,14 +8,14 @@
 
 ## Built With
 
-- HTML
-Designed in Semantic HTML style.
+HTML
+- Designed in Semantic HTML style.
 
-- CSS
-Use of Gradient backgound.
-Use of flex layout
-Use of grid layout
-Use of float
+CSS
+- Use of Gradient backgound.
+- Use of flex layout
+- Use of grid layout
+- Use of float
 
 ## Live Demo
 
