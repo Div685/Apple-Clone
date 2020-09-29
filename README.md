@@ -19,7 +19,7 @@ CSS
 
 ## Live Demo
 
-[Live Demo Link](https://smcommits.github.io/Apple-Clone/)
+[Live Demo Link](https://div685.github.io/Apple-Clone/)
 
 
 ## Getting Started
