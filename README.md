@@ -51,7 +51,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Icons are downloaded from Youtube's original page.
+- Icons and Images are downloaded from apple's original [webpage](https://web.archive.org/web/20140301004610/http://www.apple.com/).
 - Fonts are imported from Google Fonts.
 
 
